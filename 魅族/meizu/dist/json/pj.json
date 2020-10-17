@@ -1,0 +1,21 @@
+[
+    [
+        {"id":"1","name":"魅族超充 GaN 三口充电器","txt":"65W MAX功率输出 | GaN 芯片 | 三口输出","price":"￥199"},
+        {"id":"2","img":"../img/PJJ1.png","name":"魅族超充 USB-C 移动电源","txt":"USB-C 双向快充 | 22.5W大功率 多快充协议支持","price":"￥169"},
+        {"id":"3","img":"../img/PJJ2.png","name":"魅族无线超充板","txt":"魅族 17 Pro 适用 | 27W 无线快充 | 主动散热","price":"￥169"},
+        {"id":"68","img":"../img/PJJ3.png","name":"Pandaer 「17」夏日系列 壳膜套装","txt":"魅族 17 / 魅族 17 Pro 适用 | 手机壳 + PET高透膜","price":"￥69"}
+    ],
+    [
+        {"id":"4","name":"魅族无线超充板","txt":"魅族 17 Pro 适用 | 27W 无线快充 | 主动散热","price":"￥169"},
+        {"id":"5","img":"../img/PJJ4.png","name":"魅族中国红 Type-C 金属编织线","txt":"Type-C 接口 | 3A大电流 | 耐磨编织材料","price":"￥39"},
+        {"id":"6","img":"../img/PJJ5.png","name":"魅族双 USB-C 快充线","txt":"双 USB-C 接口 | 5A 大电流 | E-Marker 芯片","price":"￥49"},
+        {"id":"7","img":"../img/PJJ6.png","name":"魅族 Type-C 游戏专用线","txt":"Type-C 接口 | 5A大电流 | 弯头专为游戏设计","price":"￥49"}
+    ],
+    [
+        {"id":"8","name":"Pandaer 「17」系列 手机壳","txt":"魅族 17 / 魅族 17 Pro 适用 |  官方适配","price":"￥49"},
+        {"id":"9","img":"../img/PJJ7.png","name":"魅族 17 系列 液态硅胶壳","txt":"魅族 17 / 17 Pro 适用 | 魅族手感 | 柔韧保护","price":"￥89"},
+        {"id":"10","img":"../img/PJJ8.png","name":"魅族 Type-C 数据线","txt":"5A 大电流 | Type-C 接口 | 更快更方便","price":"￥49"},
+        {"id":"11","img":"../img/PJJ9.png","name":"Lifeme PD 快充线","txt":"USB-C 转 Lightning | 兼容大部分苹果设备","price":"￥69"}
+    ]
+    
+]

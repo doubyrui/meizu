@@ -1,0 +1,14 @@
+require.config({
+    paths:{
+        jqurey:'jquery-1.11.3',
+        jqcookie:'jquery.cookie',
+        details:'details'
+    },
+    shim:{
+        'jqcookie':['jqurey']
+    }
+})
+require(['details'],function(details){
+    details.details()
+    details.detailsAjax()
+})

@@ -1,0 +1,13 @@
+require.config({
+    paths:{
+        jqurey:'jquery-1.11.3',
+        jqcookie:'jquery.cookie',
+        registered:'registered'
+    },
+    shim:{
+        'jqcookie':['jqurey']
+    }
+})
+require(['registered'],function(registered){
+    registered.send();
+})

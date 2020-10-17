@@ -1,0 +1,13 @@
+require.config({
+    paths:{
+        jqurey:'jquery-1.11.3',
+        jqcookie:'jquery.cookie',
+        login:'login'
+    },
+    shim:{
+        'jqcookie':['jqurey']
+    }
+})
+require(['login'],function(login){
+    login.send();
+})

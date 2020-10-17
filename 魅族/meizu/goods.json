@@ -1,0 +1,21 @@
+[
+    [
+        {"id":"56","name":"魅族 EP3C 耳机","txt":"Hi-Res 认证高解析音质","price":"￥129"},
+        {"id":"57","img":"../img/EJ1.png","name":"魅族 HIFI 解码耳放","txt":"高性能DAC芯片 | 纯净HiFi音质","price":"￥169"},
+        {"id":"58","img":"../img/EJ2.png","name":"魅族 EP63NC 无线降噪耳机","txt":"AMS 芯片智能降噪 | 蓝牙一拖二连接","price":"￥499"},
+        {"id":"59","img":"../img/EJ3.png","name":"魅族 HD60 头戴式蓝牙耳机","txt":"40mm生物振膜  | 触控操作","price":"￥399"}
+    ],
+    [
+        {"id":"60","name":"魅族 HD60 头戴式蓝牙耳机","txt":"40mm生物振膜  | 触控操作","price":"￥499"},
+        {"id":"61","img":"../img/EJ4.png","name":"POP 真无线蓝牙耳机","txt":"双无线 零设限","price":"￥299"},
+        {"id":"62","img":"../img/RJ5.png","name":"魅族 HiFi 解码耳放 PRO","txt":"性能DAC芯片 | 超强二级运放","price":"￥269"},
+        {"id":"63","img":"../img/EJ6.png","name":"魅族 HD60 降噪耳机","txt":"索尼主动降噪芯片 | 40mm镀铍振膜","price":"￥1099"}
+    ],
+    [
+        {"id":"64","name":"MEIZU UR 高端定制耳机  预约","txt":"【预约专用】私人定制，为你而声","price":"￥200"},
+        {"id":"65","img":"../img/EJ7.png","name":"魅族 EP52 Lite 蓝牙耳机","txt":"生物纤维振膜 | 8小时续航 | IPX5级防水","price":"￥199"},
+        {"id":"66","img":"../img/EJ8.png","name":"魅族 EP2X 耳机","txt":"一体式线控 | 3.5mm接口 | 流线设计","price":"￥69"},
+        {"id":"67","img":"../img/EJ9.png","name":"魅族 HALO 激光蓝牙耳机","txt":"炫酷夜跑神器 随性张扬","price":"￥499"}
+    ]
+    
+]
